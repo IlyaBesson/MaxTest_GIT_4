@@ -1,0 +1,24 @@
+h1 {
+    background: red;
+}
+p.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+p.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 25px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+p.paragraph-3 {
+    font-weight: bold;
+    font-size: 24pt;
+    font-family: Courier New;
+}
