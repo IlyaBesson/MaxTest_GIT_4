@@ -26,4 +26,5 @@ p.paragraph-4 {
     font-size: 24pt;
     font-style: oblique;
     text-align: center;
+    text-shadow: green 1px 1px 2px;
 }
